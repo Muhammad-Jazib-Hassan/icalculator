@@ -1,0 +1,72 @@
+body{
+background-color: black;
+
+}
+.container{
+background: black;}
+
+ 
+ .screen{
+  width: 100%;
+  background: black ;
+  height: 24vh;
+  
+
+}
+.screen input {
+width: 100%;
+background: transparent;
+text-align: right;
+height: 100%;
+color: white;
+border: none;
+font-size: 15vh;
+font-family: monospace;
+}
+.col-3, .col-6  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    }
+    
+.btns{
+background-color: rgb(45, 44, 44);
+height: 100px;
+text-align: center;
+color: white;
+font-size: large;
+border-radius: 50%;
+
+
+
+} 
+.color{
+ 
+    background-color: #ffffffb0;
+    height: 100px;
+ text-align: center;
+ color: black;
+ font-size: large;
+ border-radius: 50%;
+
+
+}
+
+.orng{
+    background-color: rgb(247, 168, 21);
+    height: 100px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    border-radius: 50%;
+}
+.zero{
+    background-color: rgb(45, 44, 44);
+    height: 100px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    border-radius: 50px;
+    
+}
